@@ -1,0 +1,14 @@
+<Configuration>
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024">
+    <Product ID="Standard2024Volume">
+      <Language ID="es-mx" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Groove" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>

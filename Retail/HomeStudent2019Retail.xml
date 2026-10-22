@@ -1,0 +1,15 @@
+<Configuration>
+  <Add OfficeClientEdition="64">
+    <Product ID="HomeStudent2019Retail">
+      <Language ID="es-mx" />
+      <ExcludeApp ID="Access" />
+      <ExcludeApp ID="OneNote" />
+      <ExcludeApp ID="Publisher" />
+      <ExcludeApp ID="Lync" />
+      <ExcludeApp ID="Groove" />
+      <ExcludeApp ID="Outlook" />
+    </Product>
+  </Add>
+  <Updates Enabled="TRUE" />
+  <Display Level="Full" AcceptEULA="TRUE" />
+</Configuration>
