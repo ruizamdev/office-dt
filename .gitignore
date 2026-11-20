@@ -1,2 +1,5 @@
 *.exe
 Personalizado/
+bin/
+obj/
+dist/
